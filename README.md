@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beckman924&label=Profile%20views&color=0e75b6&style=flat" alt="beckman924" /> </p>
 
-- 🔭 I’m currently working on [PF-Reserva-Canchas](https://github.com/danmera1980/PF-Reserva-Canchas)
-
 - 🌱 I’m currently learning **React, NodeJs, Express, Postgres, React Native**
 
 - 📫 How to reach me **braiancarabajal@gmail.com**
